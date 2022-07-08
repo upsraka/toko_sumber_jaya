@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">TokoSumberJaya</string>
+    <string name="kode_toko_120199862">Kode Toko:120199862</string>
+    <string name="text_nominal">29</string>
+    <string name="pending">Pending</string>
+    <string name="text_dalam_proses">Dalam Proses</string>
+    <string name="text_61">61</string>
+    <string name="text_total_tagihan">Total Tagihan</string>
+    <string name="text_rp_29_000_000">Rp. 29.000.000</string>
+    <string name="text_bayar">Bayar</string>
+    <string name="text_ajukan_npo">Ajukan\nPO</string>
+    <string name="text_riwayat_npo">Riwayat\nPO</string>
+    <string name="text_riwayat_nbayar">Riwayat\nBayar</string>
+    <string name="text_riwayat_npesanan">Riwayat\nPesanan</string>
+    <string name="text_daftar_nbayar">Daftar\nBayar</string>
+    <string name="text_todo">TODO</string>
+    <string name="text_toko_sumber_jaya">Toko Sumber Jaya</string>
+    <string name="text_sales_theo_adipta">Sales: Theo Adipta</string>
+    <string name="text_purchase_order_po">Purchase Order PO</string>
+    <string name="text_data_sales">Data Sales</string>
+    <string name="text_akun">Akun</string>
+</resources>

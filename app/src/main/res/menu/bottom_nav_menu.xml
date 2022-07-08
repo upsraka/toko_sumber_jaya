@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:tools="http://schemas.android.com/tools"
+    xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item android:id="@+id/dataSales"
+        android:title="@string/text_data_sales"
+        android:icon="@drawable/bag"
+        android:iconTint="@color/primary"
+        tools:targetApi="o" />
+
+    <item android:id="@+id/placeHolder"
+        android:title=""/>
+
+    <item android:id="@+id/akun"
+        android:title="@string/text_akun"
+        android:icon="@drawable/profile"
+        android:iconTint="@color/primary"
+        tools:targetApi="o" />
+
+</menu>
